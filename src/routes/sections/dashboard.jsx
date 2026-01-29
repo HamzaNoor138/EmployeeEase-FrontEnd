@@ -112,7 +112,7 @@ const OutSourceCandidatePage = lazy(() =>
   import('src/pages/dashboard/setup/outSourceCandidatePage')
 );
 const CreateNewCandidate = lazy(() => import('src/pages/dashboard/setup/CreateNewCandidate'));
-const CandidateInterviewPage = lazy(() => import('src/pages/dashboard/setup/CandidateInterview'));
+const CandidateInterviewPage = lazy(() => import('src/pages/dashboard/setup/candidateInterview'));
 const CompanyEmployeePage = lazy(() => import('src/pages/dashboard/setup/companyEmployeePage'));
 const AttendancePage = lazy(() => import('src/pages/dashboard/setup/attendancePage'));
 const AttendanceCandidatePage = lazy(() =>
